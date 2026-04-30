@@ -31,6 +31,7 @@ Unduh Aplikasi Termux Nya Dibawah Ini
 
 # ScreenShoot
 <img width="1072" height="860" alt="Image" src="https://github.com/user-attachments/assets/92b429e4-4990-4c53-8f07-b73e6514d4f9" />
+
 # Video
 
 
