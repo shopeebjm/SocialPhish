@@ -35,6 +35,8 @@ Unduh Aplikasi Termux Nya Dibawah Ini
 # Video
 https://github.com/user-attachments/assets/2166adc4-5c9f-48fb-9afb-743181ade982
 
+https://github.com/user-attachments/assets/7527ffc2-a425-412a-8a5e-3f246356f0b0
+
 # Penggunaan:
 ```
 git clone https://github.com/shopeebjm/SocialPhish.git
