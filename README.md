@@ -21,6 +21,10 @@ Penggunaan SocialPhish untuk menyerang target tanpa persetujuan bersama sebelumn
 - Pasang Aplikasi Termux Di Android Tetapi Untuk Aplikasi Termux Jangan Di Unduh Di Playstore Karena Bisa Menyebabkan Error
 <h2 align="center">
 
+# ScreenShoot
+<img width="1072" height="860" alt="Image" src="https://github.com/user-attachments/assets/92b429e4-4990-4c53-8f07-b73e6514d4f9" />
+# Video
+
 Unduh Aplikasi Termux Nya Dibawah Ini
 
 👇👇
