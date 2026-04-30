@@ -12,10 +12,10 @@
 
 </p>
 
-Alat Phishing untuk Instagram, Facebook, Twitter, Snapchat, Github, Yahoo, Protonmail, Google, Spotify, Netflix, Linkedin, Wordpress, Origin, Steam, Microsoft, InstaFollowers, dan banyak lagi +1 yang dapat disesuaikan
+Alat Phishing untuk Instagram, Facebook, Twitter, Snapchat, Github, Yahoo, Protonmail, Google, Spotify, Netflix, Linkedin, Wordpress, Origin, Steam, Microsoft, InstaFollowers, dan banyak lagi +1 yang dapat disesuaikan.
 
 ## Legal disclaimer:
-Usage of SocialPhish for attacking targets without prior mutual consent is illegal. It's the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program 
+Penggunaan SocialPhish untuk menyerang target tanpa persetujuan bersama sebelumnya adalah ilegal. Merupakan tanggung jawab pengguna akhir untuk mematuhi semua hukum lokal, negara bagian, dan federal yang berlaku. Pengembang tidak bertanggung jawab atas penyalahgunaan atau kerusakan apa pun yang disebabkan oleh program ini. 
 
 ### Screenshot
 ![Alt text](https://image.ibb.co/nhdEwK/phish.png "SocialPhish")
@@ -35,11 +35,17 @@ Unduh Aplikasi Termux Nya Dibawah Ini
 
 [![Android](https://img.shields.io/badge/Android-14-yellow.svg?style=flat)](https://developer.android.com/about/versions/14?hl=id)
 
-###### Usage:
+# Penggunaan:
 ```
 git clone https://github.com/shopeebjm/SocialPhish.git
+```
+```
 cd SocialPhish
+```
+```
 chmod +x socialphish.sh
+```
+```
 ./socialphish.sh
 ```
 
