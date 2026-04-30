@@ -15,13 +15,7 @@
 Alat Phishing untuk Instagram, Facebook, Twitter, Snapchat, Github, Yahoo, Protonmail, Google, Spotify, Netflix, Linkedin, Wordpress, Origin, Steam, Microsoft, InstaFollowers, dan banyak lagi +1 yang dapat disesuaikan.
 
 ## Legal disclaimer:
-Penggunaan SocialPhish untuk menyerang target tanpa persetujuan bersama sebelumnya adalah ilegal. Merupakan tanggung jawab pengguna akhir untuk mematuhi semua hukum lokal, negara bagian, dan federal yang berlaku. Pengembang tidak bertanggung jawab atas penyalahgunaan atau kerusakan apa pun yang disebabkan oleh program ini. 
-
-### Screenshot
-![Alt text](https://image.ibb.co/nhdEwK/phish.png "SocialPhish")
-
-##### Video:
-[![Watch the video](https://image.ibb.co/jb1bM8/player.png)](https://streamable.com/ltnid)
+Penggunaan SocialPhish untuk menyerang target tanpa persetujuan bersama sebelumnya adalah ilegal. Merupakan tanggung jawab pengguna akhir untuk mematuhi semua hukum lokal, negara bagian, dan federal yang berlaku. Pengembang tidak bertanggung jawab atas penyalahgunaan atau kerusakan apa pun yang disebabkan oleh program ini.
 
 # Persyaratan
 - Pasang Aplikasi Termux Di Android Tetapi Untuk Aplikasi Termux Jangan Di Unduh Di Playstore Karena Bisa Menyebabkan Error
@@ -80,8 +74,7 @@ chmod +x socialphish.sh
 </div>
 
 # Follow Me :
-‎
-‎[![Messenger](https://img.shields.io/badge/Messengers-blue?style=for-the-badge&logo=messenger)](https://fb.me/shopee.bjm)
+‎‎[![Messenger](https://img.shields.io/badge/Messengers-blue?style=for-the-badge&logo=messenger)](https://fb.me/shopee.bjm)
 ‎<a href="https://tiktok.com/@shopee.bjm"><img title="TikTok" src="https://img.shields.io/badge/-black?style=for-the-badge&logo=Tiktok"></a>
 ‎<a href="https://linktr.ee/kiplymacho" target="_blank"><img src="https://img.shields.io/badge/Socials-grey?style=for-the-badge&logo=linktree"></a>
 ‎<a href="https://github.com/shopeebjm" target="_blank"><img src="https://img.shields.io/badge/Github-blue?style=for-the-badge&logo=github"></a>
